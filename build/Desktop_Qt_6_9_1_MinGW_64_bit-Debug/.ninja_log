@@ -1,0 +1,9 @@
+# ninja log v6
+5	507	7802292619217605	spinbox_autogen/timestamp	9391a5e12748b19
+5	507	7802292619217605	spinbox_autogen/mocs_compilation.cpp	9391a5e12748b19
+5	507	7802292619217605	C:/Users/user/Desktop/spinbox/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/spinbox_autogen/timestamp	9391a5e12748b19
+5	507	7802292619217605	C:/Users/user/Desktop/spinbox/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/spinbox_autogen/mocs_compilation.cpp	9391a5e12748b19
+510	1908	7802292619717597	CMakeFiles/spinbox.dir/spinbox_autogen/mocs_compilation.cpp.obj	33eb2c3ea931853d
+513	1926	7802292619747600	CMakeFiles/spinbox.dir/main.cpp.obj	ad5af9b963048d0
+515	2005	7802292619767600	CMakeFiles/spinbox.dir/widget.cpp.obj	6f99b814ecdbab90
+2005	2174	7802292634657595	spinbox.exe	94e23463c1ea72e5
